@@ -1,3 +1,7 @@
+> **Project overview**
+> IWIIGI is a web interface prototype for an ad-engagement rewards concept. To preview the interface, open [project](project) and run `npm ci` followed by `npm run dev`.
+> [Original project and contributors](https://github.com/ayush-bhatt-07/IWIIGI)
+
 
 
 #  IWIIGI – *I Wish I Got It!*
