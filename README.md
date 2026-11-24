@@ -1,5 +1,5 @@
 > **Project overview**
-> IWIIGI is a web interface prototype for an ad-engagement rewards concept. To preview the interface, open [project](project) and run `npm ci` followed by `npm run dev`.
+> IWIIGI is a browser-local rewards demo. Complete the sample activity to earn 100 points, redeem a sample reward for 75, and reload to verify the 25-point balance. Points have no cash value. To preview the interface, open [project](project) and run `npm ci` followed by `npm run dev`.
 > [Original project and contributors](https://github.com/ayush-bhatt-07/IWIIGI)
 
 
