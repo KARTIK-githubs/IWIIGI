@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 type Entry = 'sample' | 'reward';
 const key = 'iwiigi-demo-ledger';
